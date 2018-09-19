@@ -33,8 +33,10 @@
 %<--------------------------------------------------------------------------->
 %<--------------------------------------------------------------------------->
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesPackage{tkz-linknodes}[2011/06/02 v1.1c tkz-linknodes]
-\RequirePackage{etex}
+\ProvidesPackage{tkz-linknodes}[2018/09/03 v1.1d tkz-linknodes]
+\ifx\e@alloc\@undefined
+  \RequirePackage{etex}
+\fi
 \RequirePackage{ifthen}
 \RequirePackage{xkeyval}[2005/11/25]
 \RequirePackage{tikz}

@@ -1,8 +1,8 @@
 Encoding  : utf8
 Author    : Alain Matthes
-Date      : 02/06/2011
+Date      : 19/09/2018
 Package   : tkz-linknodes.sty
-Version   : 1.1c
+Version   : 1.1d
 
 
                  The linknodes package
